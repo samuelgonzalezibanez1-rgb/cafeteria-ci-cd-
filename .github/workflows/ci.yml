@@ -1,4 +1,4 @@
-name: CI-CD Cafeteria 
+name: CI-CD cafeteria 
 
 on: 
 push: 
@@ -6,7 +6,7 @@ branches: [main]
 workflow_dispatch: 
 
 permissions: 
-contents: read 
+ contents: read 
 
 jobs: 
 validar: 
