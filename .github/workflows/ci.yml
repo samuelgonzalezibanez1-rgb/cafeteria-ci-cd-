@@ -1,4 +1,4 @@
-name: CI-CD Cafeteria
+name: CI-CD cafeteria
 
 on:
   push:
